@@ -44,10 +44,12 @@ p {
 }
 
 .container {
+    max-width: 1440px;
+    margin: auto;
+    padding: 5rem;
+    height: 100vh;
     display: grid;
     place-content: center;
-    margin: auto;
-    max-width: 1440px;
 /* Le falta estar alineado al centro*/
 }
 
@@ -70,7 +72,7 @@ p {
     }
 }
 
-@media max-width(600px) {
+@media (max-width: 500px){
     .container {
         display: flex;
         place-content: center;
