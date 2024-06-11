@@ -48,6 +48,7 @@ p {
     place-content: center;
     margin: auto;
     max-width: 1440px;
+/* Le falta estar alineado al centro*/
 }
 
 .flex {
