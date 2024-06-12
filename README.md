@@ -35,7 +35,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### What I learned
 
-I am very proud of this CSS code because I was able to make it responsive for mobile without needing to use a @media query.
+I’m really proud of this CSS code because I made it mobile responsive without using any @media queries.
 
 
 ```css
@@ -48,10 +48,9 @@ h1 {
     margin: auto;
     padding: 2rem;
     display: grid;
-    place-content: center;
 }
 ```
-Thanks to place-content: center, I have aligned and justified it both vertically and horizontally.
+Using place-content: center, I was able to align and justify it both vertically and horizontally.
 
 ```css
 .container {
