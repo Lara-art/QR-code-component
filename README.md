@@ -7,13 +7,12 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![mobile](https://github.com/Lara-art/QR-code-component/assets/62111495/402e7bc3-279a-4bef-b57d-62bac3fdf5ba)<br>
+<i>Mobile Design</i>
 
-Mobile Design
 
-![](./screenshot.jpg)
-
-Desktop Design
+![Desktop](https://github.com/Lara-art/QR-code-component/assets/62111495/ba689c62-176a-435e-8690-e13278592769)<br>
+<i>Desktop Design</i>
 
 ### Links
 
