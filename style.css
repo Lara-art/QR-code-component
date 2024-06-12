@@ -4,8 +4,7 @@
     --color-background: hsl(212, 45%, 89%);
     --color-card: hsl(0, 0%, 100%);
     --color-h1: hsl(218, 44%, 22%);
-    --color-p: hsl(220, 15%, 55%);
-    --color-shadow: hsl(212, 45%, 89%);
+    --color-grey: hsl(220, 15%, 55%);
     --border-radius: 15px;
 }
 
@@ -39,7 +38,7 @@ h1 {
 }
 
 p {
-    color: var(--color-p);
+    color: var(--color-grey);
     font-size: 15px;
     font-weight: 400;
 }
@@ -61,7 +60,7 @@ p {
     padding: 1.5rem;
     border-radius: var(--border-radius);
     background-color: var(--color-card);
-    box-shadow: 1px solid var(--color-shadow);
+    box-shadow: 0px 0px 22px -7px var(--color-grey);
 
     & div {
         padding-bottom: 1.8rem;
