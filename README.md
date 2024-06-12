@@ -7,13 +7,12 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![mobile](https://github.com/Lara-art/QR-code-component/assets/62111495/402e7bc3-279a-4bef-b57d-62bac3fdf5ba)<br>
+<i>Mobile Design</i>
 
-Mobile Design
 
-![](./screenshot.jpg)
-
-Desktop Design
+![Desktop](https://github.com/Lara-art/QR-code-component/assets/62111495/ba689c62-176a-435e-8690-e13278592769)<br>
+<i>Desktop Design</i>
 
 ### Links
 
@@ -36,7 +35,7 @@ Desktop Design
 
 ### What I learned
 
-I am very proud of this CSS code because I was able to make it responsive for mobile without needing to use a @media query.
+I’m really proud of this CSS code because I made it mobile responsive without using any @media queries.
 
 
 ```css
@@ -49,10 +48,9 @@ h1 {
     margin: auto;
     padding: 2rem;
     display: grid;
-    place-content: center;
 }
 ```
-Thanks to place-content: center, I have aligned and justified it both vertically and horizontally.
+Using place-content: center, I was able to align and justify it both vertically and horizontally.
 
 ```css
 .container {
