@@ -47,7 +47,6 @@ h1 {
     max-width: 1440px;
     margin: auto;
     padding: 2rem;
-    display: grid;
 }
 ```
 Using place-content: center, I was able to align and justify it both vertically and horizontally.
