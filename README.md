@@ -6,13 +6,12 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 ## Overview
 
 ### Screenshot
-
-![mobile](https://github.com/Lara-art/QR-code-component/assets/62111495/402e7bc3-279a-4bef-b57d-62bac3fdf5ba)<br>
-<i>Mobile Design</i>
-
-
-![Desktop](https://github.com/Lara-art/QR-code-component/assets/62111495/ba689c62-176a-435e-8690-e13278592769)<br>
-<i>Desktop Design</i>
+<table>
+  <tr>
+    <td style="width: 75%;"><img src="https://github.com/Lara-art/QR-code-component/blob/main/QR-Screenshoot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
+    <td style="width: 25%;"><img src="https://github.com/Lara-art/QR-code-component/blob/main/QR-Screenshoot/mobile.PNG"  alt="Vista Móvil" style="width: 100%;"/></td>
+  </tr>
+</table>
 
 ### Links
 
