@@ -1,6 +1,6 @@
 # Frontend Mentor - QR code component solution
 
-This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is my solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). <br>Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
 ## Overview
@@ -47,7 +47,6 @@ h1 {
     max-width: 1440px;
     margin: auto;
     padding: 2rem;
-    display: grid;
 }
 ```
 Using place-content: center, I was able to align and justify it both vertically and horizontally.
