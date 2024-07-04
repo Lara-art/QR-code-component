@@ -5,7 +5,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ## Overview
 
-### Screenshot
+### 💻 Screenshot
 <table>
   <tr>
     <td style="width: 75%;"><img src="https://github.com/Lara-art/QR-code-component/blob/main/QR-Screenshoot/Desktop.PNG" alt="Vista de Escritorio" style="width: 100%;"/></td>
@@ -13,14 +13,14 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
   </tr>
 </table>
 
-### Links
+### 🔗 Links
 
 - Solution URL: [Github](https://github.com/Lara-art/QR-code-component)
 - Live Site URL: [Deployed](https://lara-art.github.io/QR-code-component/)
 
 ## My process
 
-### Built with
+### 👩‍💻 Built with
 
 - Web font import
 - CSS custom properties
@@ -32,7 +32,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 - Mobile-first design
 
 
-### What I learned
+### 📚 What I learned
 
 I’m really proud of this CSS code because I made it mobile responsive without using any @media queries.
 
@@ -58,7 +58,11 @@ Using place-content: center, I was able to align and justify it both vertically 
 ```
 
 
-## Author
+## ✨ Author
 
 - Github - [Lara](https://github.com/Lara-art)
 - Frontend Mentor - [@Lara-art](https://www.frontendmentor.io/profile/Lara-art)
+
+## 📂 Repository
+
+- All the challenges done: [Github](https://github.com/Lara-art/My-Frontend-Mentor-Repository)
